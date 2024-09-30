@@ -1,0 +1,4 @@
+Vagner, 0
+Vag, 600
+Vag, 0
+Vagner, 0
